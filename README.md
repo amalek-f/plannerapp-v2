@@ -1,2 +1,2 @@
 # plannerapp-v2
-PlannerApp is a blazor Webassembly client application 
+PlannerApp is a Blazor WebAssembly Client application to manage the plans and daily To-Dos of the users
